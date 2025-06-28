@@ -2,8 +2,8 @@
 #include <iostream>
 
 #include "SDK.hpp"
-#include "SDK/Engine_classes.hpp"
-#include "SDK/SP_Controller_classes.hpp"
+#include "Engine_classes.hpp"
+#include "SP_Controller_classes.hpp"
 
 DWORD MainThread(HMODULE Module)
 {
